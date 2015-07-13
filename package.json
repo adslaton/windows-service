@@ -1,0 +1,16 @@
+{
+	"name": "windows-service",
+	"version": "0.0.1",
+	"description": "Windows service daemon creator",
+	"dependencies": {
+		"node-windows": "0.1.7"
+	},
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/adslaton/windows-service.git"
+	},
+	"scripts": {
+		"start": "node index.js"
+	}
+}
