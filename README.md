@@ -2,7 +2,7 @@
 
 Creates a Windows service daemon
 
-##Defined the service name, description, and path
+###Defined the service name, description, and path
 
 ```javascript
 //Create a new service object
@@ -14,7 +14,8 @@ svc = new Service({
 });
  ```
 
- ##Start the app
+ ###Start the app
+
  ```shell
  npm start
  ```
