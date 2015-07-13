@@ -14,7 +14,7 @@ svc = new Service({
 });
  ```
 
- ###Start the app
+###Start the app
 
  ```shell
  npm start
