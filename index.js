@@ -1,8 +1,8 @@
 var Service = require('node-windows').Service,
 	svc,
-    name = 'Copa Messages',
-    description = 'Copa messaging service',
-    script = 'C:\\node-apps\\messaging\\app.js';
+    name = 'Copa Authentication',
+    description = 'Copa pauthentication service',
+    script = 'C:\\inetpub\\wwwroot\\authenticate\\index.js';
 
 /*
     Create a new service object
