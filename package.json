@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"description": "Windows service daemon creator",
 	"dependencies": {
-		"node-windows": "0.1.7"
+		"node-windows": "0.1.14"
 	},
 	"main": "index.js",
 	"repository": {
